@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/NFLXclone/static/js/main.45df2557.js",
+    "main.js": "/NFLXclone/static/js/main.b90df5a5.js",
     "index.html": "/NFLXclone/index.html",
-    "main.45df2557.js.map": "/NFLXclone/static/js/main.45df2557.js.map"
+    "main.b90df5a5.js.map": "/NFLXclone/static/js/main.b90df5a5.js.map"
   },
   "entrypoints": [
-    "static/js/main.45df2557.js"
+    "static/js/main.b90df5a5.js"
   ]
 }
